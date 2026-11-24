@@ -63,4 +63,6 @@ csaw{y0u_@lw@ys_kn0w_wh3r3_t0_l00k}
 
 **Chain:** MP4 `uuid`/XMP metadata → base64 → Vigenère ciphertext, with the key (`cantfindit`) hidden as base64 text in the video frames.
 
+## More
+
 **Additional explanation : (optional)** The original challenge asked only for the "cantfindit" flag, although there seems to be a second flag hidden inside the video metadata. Whether this was intended or not is unknown, but the intended flag was found (**Step #5**).
