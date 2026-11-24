@@ -1,0 +1,3 @@
+[submodule "CSAW26_LLMAC_DB"]
+	path = CSAW26_LLMAC_DB
+	url = https://github.com/NYU-LLM-CTF/CSAW26_LLMAC_DB.git
