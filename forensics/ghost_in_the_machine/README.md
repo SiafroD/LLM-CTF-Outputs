@@ -1,5 +1,3 @@
-I'll start by checking the file-reading skill, then analyze the capture.
-
 # Ghost in the Machine
 
 ## Description
